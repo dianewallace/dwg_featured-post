@@ -1,0 +1,27 @@
+{
+ "name": "dwg-featured-post",
+ "version": "2.0.0",
+ "description": "Block with dropdown to select featured post.",
+ "main": "index.js",
+ "scripts": {
+  "start": "webpack --mode development --watch",
+  "build": "webpack --mode production"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/dianewallace/dw-gutenberg-featured-post"
+ },
+ "keywords": [],
+ "author": "Diane wallace",
+ "license": "GPL-2.0-or-later",
+ "homepage": "https://github.com/dianewallace/dw-gutenberg-featured-post",
+ "devDependencies": {
+  "@babel/core": "^7.9.0",
+  "@babel/plugin-transform-react-jsx": "^7.9.4",
+  "@babel/preset-env": "^7.9.5",
+  "@babel/preset-react": "^7.9.4",
+  "babel-loader": "^8.1.0",
+  "webpack": "^4.42.1",
+  "webpack-cli": "^3.3.11"
+ }
+}
