@@ -1,12 +1,14 @@
 # Featured Post
 
-This WordPress plugin displays a selected post.
+This WordPress plugin alows users to select a post from a dropdown, with a unquie meta identifier.
 
 ## Installation
 
+Download or clone repo in to your /wp-content/plugins folder.
+
 Run `npm install`.
 
-## Workflow
+## Development
 
 `npm start`
 
